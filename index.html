@@ -1,0 +1,37 @@
+<head>
+    <script src="biol.js" charset="utf-8"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=3">
+    <meta charset="utf-8">
+  <style>
+    body, html {
+      height: 100%;
+      width: 90%;
+      margin: 20;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <p id = "past"></p>
+
+  <p id = "qes">
+    Odstartujte svůj test!
+  </p>
+
+  <button id = "sans" type="button" name="button" onclick="showAnswer()" style = "display:none"> Odpověď </button>
+  <div style="width: 150px; padding: 10px">
+    <button id = "nxt" type="button" name="button" onclick="nextQuestion()" style = "display:block; float:left"> Start </button>
+    <button id = "wrng" type="button" name="button" onclick="wrong()" style = "display:none; float:right"> Špatně </button>
+  </div>
+
+  <p id = "ans"></p>
+
+  <p id = "num"></p>
+
+  <script type="text/javascript">
+    console.log('loaded');
+    //var starti = setInterval(update, 50)
+
+    //var nothing = setInterval(update, 1000);
+  </script>
+</body>

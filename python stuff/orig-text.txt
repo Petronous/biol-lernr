@@ -1,0 +1,210 @@
+
+..1. Co je buněčný cyklus?
+Buněčný cyklus je životní cyklus buněk.
+..2. Co je lytický cyklus?
+Lytický cyklus je životní cyklus virů.
+..3. Co představuje začátek a konec buněčného cyklu?
+Buněčný cyklus začíná v okamžiku, kdy buňka vznikne rozdělením buňky mateřské, a končí okamžikem, kdy se buňka rozdělí na dvě buňky dceřiné.
+..4. Které období života buňky zahrnuje buněčný cyklus?
+Je to období od konce jednoho buněčného dělení po skončení následujícího buněčného dělení.
+..5. Z kterých fází se skládá buněčný cyklus?
+Buněčný cyklus má čtyři (různě dlouhé) fáze: G1, S, G2 a M.
+..6. Co znamenají písmena S a M označující dvě ze čtyř fází buněčného cyklu?
+S = syntetická fáze, M = mitóza.
+..7. Co je hlavním dějem buněčného dělení?
+Mitóza (nebo meióza).
+..8. Co je interfáze?
+Interfáze je období života buňky mezi dvěma mitózami (= období mezi dvěma buněčnými děleními).
+..9. Které fáze buněčného cyklu zahrnuje interfáze?
+G1 , S a G2 .
+..10. Kdy se zdvojuje genetická (dědičná) informace buňky?
+Zdvojuje se v syntetické fázi buněčného cyklu.
+..11. Co se syntetizuje v syntetické fázi buněčného cyklu?
+Syntetizuje se nová DNA při zdvojování genetické informace.
+..12. Co je replikace?
+Replikace je zdvojování molekul DNA.
+..13. Jak probíhá replikace?
+Oba navzájem komplementární (= doplňkové) řetězce dvoušroubovicové molekuly DNA se od sebe postupně oddělí a ke každému z nich se nasyntetizuje nový komplementární řetězec.
+..14. Co zajišťuje replikace?
+Vznik dvou stejných kopií výchozí molekuly DNA.
+..15. Co zajišťuje mitóza?
+Mitóza zajišťuje, aby při dělení buněk obě dceřiné buňky obdržely stejnou genetickou informaci, jako měla mateřská buňka.
+..16. Kolik molekul DNA obsahuje jádro každé somatické buňky člověka?
+46.
+..17. Kolik molekul DNA obsahuje jádro každé somatické buňky šimpanze?
+48.
+..18. Kolik molekul DNA obsahuje jádro každé somatické buňky hrachu?
+14.
+..19. Co je mitóza?
+Mitóza je způsob dělení buněčného jádra. (Jeden ze dvou způsobů dělení buněčného jádra.)
+..20. Co je karyokineze?
+Karyokineze je dělení buněčného jádra.
+..21. Kterými způsoby může probíhat karyokineze?
+Karyokineze může probíhat dvěma způsoby: jedním je mitóza, druhým je meióza.
+..22. Co je cytokineze?
+Cytokineze je dělení buňky.
+..23. Co jsou chromozomy?
+Chromozomy jsou krátké kompaktní útvary, do nichž se uspořádávají molekuly DNA na začátku mitózy (nebo meiózy).
+..24. Co je chromatin?
+Chromatin je materiál uvnitř buněčného jádra během interfáze, tvořený dlouze vláknitými molekulami DNA a bílkovinami zvanými histony.
+..25. Jak vznikají chromozomy?
+Chromozomy vznikají z molekul DNA tím, že se tyto molekuly několikanásobně spiralizují a skládají do smyček, takže se mnohonásobně zkrátí a ztlustí.
+..26. Z kolika molekul DNA vzniká chromozom?
+Chromozom vzniká z jedné zdvojené molekuly DNA.
+..27. Co se stane se souborem chromozomů v průběhu mitózy?
+Soubor chromozomů se v procesu mitózy roztřídí na dva geneticky stejnocenné díly.
+..28. Co se stane s chromozomy na konci mitózy?
+Chromozomy se rozvolňují na dlouze vláknité molekuly DNA.
+..29. Z kterých částí se skládá chromozom?
+Chromozom je tvořen dvěma chromatidami, které leží souběžně vedle sebe a jsou těsněji spojeny v místě zvaném centromera.
+..30. Co představují chromatidy?
+Každá z chromatid daného chromozomu představuje jednu kopii zdvojené molekuly DNA.
+..31. Proč se dvojice chromatid tvořící dohromady jeden chromozom nazývá sesterské chromatidy ?
+Protože každá z chromatid představuje jednu kopii zdvojené molekuly DNA.
+..32. Co se stane se sesterskými chromatidami v průběhu mitózy?
+V průběhu mitózy se obě chromatidy od sebe oddělí a rozestoupí se od sebe do míst, kde se budou formovat dceřiná jádra.
+..33. Kolik molekul DNA budou mít dceřiné buňky, když proběhne mitóza, jestliže mateřská buňka měla  2n  molekul DNA?
+Počet molekul DNA se mitózou nezmění – každá dceřiná buňka bude mít  2n  molekul DNA.
+..34. Kolik molekul DNA budou mít dceřiné buňky, když proběhne mitóza, jestliže mateřská buňka měla  n  molekul DNA?
+Počet molekul DNA se mitózou nezmění – každá dceřiná buňka bude mít  n  molekul DNA.
+..35. 5 fází mitózy v pořadí, jak jdou za sebou:
+Profáze, prometafáze, metafáze, anafáze, telofáze.
+..36. Jakou roli má během mitózy centrozom?
+Před začátkem mitózy se centrozom zdvojí, pak oba dceřiné centrozomy putují k navzájem opačným pólům jádra a mezi oběma centrozomy se vytváří dělicí vřeténko.
+..37. Proč je možné pozorovat chromozomy ve světelném mikroskopu?
+Protože chromozomy jsou dobře barvitelné.
+..38. Profáze:
+–  z molekul DNA (s histony) se formují chromozomy (jsou dobře barvitelné a lze je pozorovat ve světelném mikroskopu),
+–  mizí jadérka,
+–  mezi oběma centrozomy se začíná vytvářet dělicí vřeténko (dvě soustavy mikrotubulů vycházející vždy z příslušného centrozomu),
+–  centrozomy se od sebe vzdalují – míří k navzájem opačným pólům jádra.
+..39. Prometafáze:
+–  rozpadá se jaderný obal,
+–  mikrotubuly dělicího vřeténka pronikají dovnitř jádra a napojují se na chromozomy v místě centromery.
+..40. Metafáze:
+–  centrozomy jsou na protilehlých pólech buňky,
+–  chromozomy se shromažďují v „rovníkové“ rovině (vzhledem k pólům); prostoru, který chromozomy zaujímají, se říká metafázní destička (při pohledu zboku se jeví jako hodně tlustá krátká čára).
+..41. Anafáze:
+–  dvouchromatidové chromozomy se podélně rozdělí na samostatné chromatidy – jednochromatidové chromozomy,
+–  zkracováním mikrotubulů dělicího vřeténka jsou jednochromatidové chromozomy taženy k pólům buňky (putují centromerami napřed) –  sesterské chromatidy se tak od sebe vzdalují a míří k různým pólům („anafází rozestup sesterských chromatid“),
+–  ke konci anafáze se v oblasti každého z obou pólů shromáždí úplná sada chromozomů (obě sady jsou navzájem stejné).
+..42. Telofáze:
+V místě pólů se vytvářejí dceřiná jádra („telofázní rekonstrukce jader“):
+–  vytvářejí se jaderné obaly,
+–  chromozomy se rozvolňují na chromatin,
+–  tvoří se jadérka.
+..43. Kdy začíná cytokineze (dělení buňky)?
+Cytokineze začíná v průběhu anafáze.
+..44. Jak probíhá cytokineze u živočišné buňky?
+U živočišné buňky dochází k zaškrcování mezi oběma jejími póly, až se buňka rozdělí na dvě dceřiné.
+..45. Jak probíhá cytokineze u rostlinné buňky?
+U rostlinné buňky se uprostřed mezi oběma dceřinými jádry syntetizuje nová buněčná stěna (od středu k okrajům), až buňku předělí na dvě části – dceřiné buňky.
+..46. Jak probíhá cytokineze u buněk hub?
+U buněk hub se uvnitř mateřské buňky mezi oběma dceřinými jádry syntetizuje nová buněčná stěna (od okrajů ke středu), až buňku předělí na dvě části – dceřiné buňky.
+..47. Co jsou gamety?
+Gamety jsou pohlavní buňky.
+..48. Co je zygota a jak vzniká?
+Zygota je oplozené vajíčko, vzniká splynutím samčí a samičí gamety při oplození.
+..49. Co jsou somatické buňky?
+Somatické buňky jsou tělní buňky, tedy buňky z nichž je vybudováno tělo organismu; jsou to jiné buňky než buňky pohlavní.
+..50. Jak se nazývá samičí gameta u živočichů?
+Vajíčko.
+..51. Jak se nazývá samčí gameta u živočichů?
+Spermie.
+..52. Kolik sad chromozomů obsahují gamety (pohlavní buňky)?
+Gamety obsahují jednu sadu chromozomů.
+..53. Kolik sad chromozomů obsahuje zygota?
+Zygota obsahuje dvě sady chromozomů.
+..54. Kolik sad chromozomů obsahují somatické buňky (tělní buňky)?
+Somatické buňky obsahují dvě sady chromozomů.
+..55. Jak označujeme počet chromozomů jedné chromozomové sady?
+n (haploidní počet).
+..56. Jak označujeme počet chromozomů dvou chromozomových sad?
+2n (diploidní počet).
+..57. Kolik chromozomů obsahuje jedna chromozomová sada člověka, šimpanze, hrachu?
+U člověka je n = 23, u šimpanze n = 24, u hrachu n = 7.
+..58. Co je diploidní buňka?
+Diploidní buňka má diploidní počet chromozomů (tj. 2n).
+..59. Co je diploidní organismus?
+Diploidní organismus je organismus, jehož tělní (= somatické) buňky jsou diploidní.
+..60. Co je haploidní buňka?
+Haploidní buňka má haploidní počet chromozomů (tj. n).
+..61. Co je haploidní organismus?
+Haploidní organismus je organismus, jehož tělní (= somatické) buňky jsou haploidní.
+..62. K čemu musí dojít při vzniku gamet u diploidního organismu?
+Musí dojít ke snížení (k redukci) počtu chromozomů na polovinu – tedy z 2n na n.
+..63. Při kterém ději dochází ke snížení počtu chromozomů z diploidního na haploidní..   (z 2n na n)?
+Ke snížení počtu chromozomů z diploidního na haploidní (z 2n na n) dochází při zvláštním způsobu dělení jádra, který je odvozen od mitózy a nazývá se meióza.
+(Ke snížení počtu chromozomů z diploidního na haploidní (z 2n na n) dochází při meióze.)
+..64. Co jsou homologní (= homologické) chromozomy?
+Homologní chromozomy jsou vzájemně si odpovídající chromozomy; obsahují stejné soubory genů, mají stejnou velikost a mají centromeru ve stejné poloze.
+..65. Jak se označují pohlavní chromozomy u člověka (ale i u mnohých jiných organismů)?
+Pohlavní chromozomy člověka se označují X a Y.
+..66. V jakých sestavách se vyskytují pohlavní chromozomy člověka (savců)?
+XX (u samičího pohlaví) nebo XY (u samčího pohlaví).
+..67. Co je meióza?
+Meióza je způsob dělení buněčného jádra, při němž dochází ke snížení počtu chromozomů na polovinu (z 2n na n).
+..68. V čem spočívá meióza?
+Meióza sestává ze dvou po sobě následujících mitóz, mezi nimiž neproběhne S-fáze buněčného cyklu. První z nich je značně pozměněná, druhá probíhá obvyklým způsobem.
+..69. Kdy dojde k redukci diploidního počtu chromozomů na polovinu?
+K redukci diploidního počtu chromozomů na polovinu dojde v 1. meiotickém dělení (v anafázi I), ale chromozomy zůstanou dvouchromatidové.
+..70. Co výsledkem meiózy?
+Výsledkem meiózy jsou čtyři jádra s haploidním počtem chromozomů (tedy haploidní jádra), a protože proběhnou i buněčná dělení, vzniknou čtyři buňky – pochopitelně haploidní.
+..71. Které děje proběhnou v profázi I navíc oproti profázi při mitóze?
+Dochází k párování homologních chromozomů a k ději zvanému crossing-over (překřížení).
+..72. K čemu dochází v profázi I v průběhu formování chromozomů z chromatinu?
+V průběhu formování chromozomů se k sobě podélně přikládají homologní chromozomy a vytvářejí chromozomové páry. Následně může proběhnout crossing-over.
+..73. Co je crossing-over?
+Crossing-over je děj, při němž se uskuteční vzájemná výměna odpovídajících si úseků nesesterských chromatid.
+..74. Čím se liší metafáze I od metafáze při mitóze?
+V metafázi I se do rovníkové roviny se umísťují chromozomové páry, nikoliv jednotlivé chromozomy, jako je tomu při mitóze.
+..75. Co se děje v anafázi I?
+Zkracováním mikrotubulů jsou od sebe taženy dvouchromatidové chromozomy každého chromozomového páru (anafázní rozestup homologních chromozomů).
+..76. Co je důsledkem anafáze I?
+Anafáze I je děj, při kterém se počet chromozomů sníží z 2n na n. Prostě tím, že se 2n chromozomů mateřského jádra rozdělí do dvou stejných souborů o n chromozomech. Tyto soubory jsou základem dceřiných jader.
+..77. Kolik chromozomů mají buňky vstupující do meiózy II?
+Tyto buňky mají n chromozomů (jsou to haploidní buňky). Jejich chromozomy jsou však dvouchromatidové.
+..78. Jak probíhá meióza II?
+Meióza II probíhá stejným způsobem jako mitóza.
+..79. Co je výsledkem meiózy II (a tedy celé meiózy)?
+Výsledkem jsou čtyři haploidní jádra a vzápětí – po dokončení buněčného dělení –  i čtyři haploidní buňky.
+..80. Co je smyslem mitózy?
+Smyslem mitózy je zajistit, aby dceřiné buňky měly stejnou genetickou informaci, jako měla buňka mateřská (počet chromozomů se zachovává).
+..81. Co je smyslem meiózy?
+Smyslem meiózy je zredukovat počet chromozomů z 2n na n, tedy zajistit, aby po rozdělení mateřské buňky s dvěma sadami chromozomů vznikly dceřiné buňky mající po jedné sadě chromozomů.
+..82. Mají čtyři buňky, které vzniklý meiózou, stejnou genetickou informaci, jako měla buňka mateřská?
+Ne, nemají, dokonce každé dvě z těchto čtyř buněk jsou navzájem geneticky různé.
+..83. Kolik různých kombinací chromozomů může vzniknout meiózou u člověka (za předpokladu, že by nenastal žádný crossing-over?
+U člověka (n = 23) by mohlo vzniknout 223 kombinací chromozomů, lišících se zastoupením chromozomů původně otcovských a původně mateřských.
+..84. V čem spočívá význam kombinování původně otcovských a původně mateřských chromozomů během meiózy?
+Možnost kombinování původně otcovských a původně mateřských chromozomů je jedním ze zdrojů genetické variability (proměnlivosti) u potomků.
+..85. Co umožňuje kombinovat genetický materiál v rámci dvojice homologních chromozomů?
+Kombinovat genetický materiál v rámci dvojice homologních chromozomů umožňuje crossing-over. Tento způsob kombinování genetického materiálu se nazývá rekombinace.
+..86. Co umožňěno crossing-overem?
+Crossing-over umožňuje kombinování genetického materiálu uvnitř chromozomů (mezi homologními chromozomy) – vznikají chromatidy, v nichž se střídají úseky původem po matce s úseky původem po otci. Tomuto procesu kombinování genetického materiálu se říká rekombinace.
+..87. Co je smyslem crossing-overu?
+Smyslem crossing-overu je rekombinace genetického materiálu.
+..88. V čem spočívá význam crossing-overu?
+Crossing-over je dalším zdrojem genetické variability (proměnlivosti) u potomků.
+..89. Co je jedním z důsledků meiózy?
+Jedním z důsledků meiózy jsou určitá pravidla pro předávání vloh z rodičů na potomky; tato pravidla se nazývají Mendelovy zákony.
+..90. Kdo objevil pravidla pro předávání vloh z rodičů na potomky?
+Tato pravidla objevil brněnský přírodovědec Johann Gregor Mendel zhruba 20 let před tím, než byla objevena meióza.
+..91. Kdy zveřejnil Johann Gregor Mendel své objevy základních pravidel dědičnosti?
+Johann Gregor Mendel zveřejnil své objevy v roce 1865 (v Brně v Biskupském paláci, který je součástí Moravského zemského muzea).
+..92. Kdy prováděl Johann Gregor Mendel své pokusy s křížením hrachu?
+Johann Gregor Mendel prováděl své pokusy na přelomu 50. a 60. let 19. století (před rokem 1865).
+..93. Kde prováděl Johann Gregor Mendel své pokusy s křížením hrachu?
+Johann Gregor Mendel prováděl své pokusy v Brně, v zahradě a ve sklenících augustiniánského kláštera na Starém Brně (v sousedství dnešního Mendelova náměstí).
+..94. Co je centrozom?
+Centrozom je útvar v blízkosti buněčného jádra tvořený dvojicí centriolů, které jsou vůči sobě navzájem umístěny kolmo. Každý centriol je poměrně krátký útvar tvořený devíti trojicemi mikrotubulů. Centrozom se uplatňuje při buněčném dělení, a to při dělení jádra.
+..95. Co představuje vlákna dělicího vřeténka?
+Ve skutečnosti nejde o vlákna, ale o submikroskopické „trubičky“ – mikrotubuly.
+..96. Jak je uspořádáno dělicí vřeténko?
+Dělicí vřeténko má dva protilehlé póly tvořené dvěma centrozomy a dvě sady mikrotubulů, které vycházejí od centrozomů. Mikrotubuly nevedou od pólu k pólu, ale od pólu k rovníkové rovině a kousek za ni, takže mikrotubuly vedoucí z jednoho a z druhého konce se v oblasti rovníkové roviny těsně míjejí a krátce přesahují jedny přes druhé.
+..97. Ke které části chromozomů se v metafázi připojují mikrotubuly dělicího vřeténka?
+Mikrotubuly se připojují k centromeře chromozomů.
+..98. K čemu slouží dělicí vřeténko?
+Dělicí vřeténko slouží k oddělení chromatid chromozomů a k jejich roztřídění na dvě stejné sestavy, případně – v případě meiózy I – k oddělení homologních chromozomů z jejich párů od sebe a k jejich roztřídění na dvě haploidní sady chromozomů.
+..99. Co zajišťuje dělicí vřeténko během anafáze?
+Zkracováním mikrotubulů dochází k rozestupu chromatid původně dvouchromatidových chromozomů k pólům dělicího vřeténka a v případě meiózy I dochází k rozestupu dvouchromatidových homologních chromozomů z jejich párů od sebe k pólům dělicího vřeténka.
