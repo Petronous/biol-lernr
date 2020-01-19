@@ -11,6 +11,7 @@ with open("text.txt", encoding = "utf-8") as t:
             if an != "": ans.write(an); an = ""
         else:
             an += line
+    if an != "": ans.write(an)
 
 qs.close()
 ans.close()

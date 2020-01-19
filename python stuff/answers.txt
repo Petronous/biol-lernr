@@ -205,3 +205,5 @@ Mikrotubuly se připojují k centromeře chromozomů.
 .
 Dělicí vřeténko slouží k oddělení chromatid chromozomů a k jejich roztřídění na dvě stejné sestavy, případně – v případě meiózy I – k oddělení homologních chromozomů z jejich párů od sebe a k jejich roztřídění na dvě haploidní sady chromozomů.
 .
+Zkracováním mikrotubulů dochází k rozestupu chromatid původně dvouchromatidových chromozomů k pólům dělicího vřeténka a v případě meiózy I dochází k rozestupu dvouchromatidových homologních chromozomů z jejich párů od sebe k pólům dělicího vřeténka.
+.
