@@ -20,6 +20,7 @@ var orIndex   = 0;
 
 var unusedQs = [];
 function initUQS() {
+  unusedQs = [];
   for (var i = 0; i < qs.length; i++) {
     unusedQs.push(i);
   }
