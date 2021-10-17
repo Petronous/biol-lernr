@@ -1,0 +1,149 @@
+
+(T142 - 09:53:21) Your Mech. Inf. survived the pathetic attack from the Papuan Howitzer.
+(T142 - 09:56:42) Your Armor II survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 09:58:21) Your Mech. Inf. survived the pathetic attack from the Papuan Howitzer.
+(T142 - 09:58:38) Mech. Inf. lost to an attack by the Papuan Howitzer.
+(T142 - 09:58:47) Your Mech. Inf. survived the pathetic attack from the Palatinate Howitzer.
+(T142 - 09:58:55) Mech. Inf. lost to an attack by the Papuan Howitzer.
+(T142 - 09:59:05) Your Mech. Inf. survived the pathetic attack from the Zulu Howitzer.
+(T142 - 09:59:10) Mech. Inf. lost to an attack by the Papuan Howitzer.
+(T142 - 09:59:21) Your Mech. Inf. survived the pathetic attack from the Palatinate Howitzer.
+(T142 - 09:59:21) Your Mech. Inf. became more experienced and achieved the rank of hardened.
+(T142 - 09:59:27) Your Mech. Inf. survived the pathetic attack from the Papuan Howitzer.
+(T142 - 09:59:27) Your Mech. Inf. became more experienced and achieved the rank of hardened.
+(T142 - 09:59:39) Mech. Inf. lost to an attack by the Papuan Howitzer.
+(T142 - 09:59:47) Mech. Inf. lost to an attack by the Romanian Howitzer.
+(T142 - 10:00:11) Armor II lost to an attack by the Papuan Howitzer.
+(T142 - 10:00:34) Your Armor II survived the pathetic attack from the Zulu Howitzer.
+(T142 - 10:00:34) Your Armor II became more experienced and achieved the rank of hardened.
+(T142 - 10:00:34) Armor II lost to an attack by the Papuan Howitzer.
+(T142 - 10:00:54) Armor II lost to an attack by the Papuan Howitzer.
+(T142 - 10:02:28) Armor II lost to an attack by the Papuan Howitzer.
+(T142 - 10:02:57) Armor II lost to an attack by the Papuan Howitzer.
+(T142 - 10:03:11) Your Armor II survived the pathetic attack from the Zulu Howitzer.
+(T142 - 10:03:12) Your Armor II survived the pathetic attack from the Papuan Howitzer.
+(T142 - 10:03:24) Marines lost to an attack by the Papuan Howitzer.
+(T142 - 10:03:32) Marines lost to an attack by the Zulu Howitzer.
+(T142 - 10:03:49) Your Howitzer survived the pathetic attack from the Zulu Howitzer.
+(T142 - 10:04:16) Your Armor II survived the pathetic attack from the Romanian Cruise Missile.
+(T142 - 10:04:22) Howitzer lost to an attack by the Zulu Howitzer.
+(T142 - 10:04:37) Howitzer lost to an attack by the Zulu Howitzer.
+(T142 - 10:04:56) Howitzer lost to an attack by the Zulu Howitzer.
+(T142 - 10:05:01) Your Howitzer survived the pathetic attack from the Zulu Howitzer.
+(T142 - 10:05:17) Howitzer lost to an attack by the Papuan Howitzer.
+(T142 - 10:05:45) Howitzer lost to an attack by the Papuan Howitzer.
+(T142 - 10:05:56) Howitzer lost to an attack by the Papuan Howitzer.
+(T142 - 10:06:02) Howitzer lost to an attack by the Papuan Howitzer.
+(T142 - 10:06:06) Howitzer lost to an attack by the Papuan Howitzer.
+(T142 - 10:06:10) Your Howitzer survived the pathetic attack from the Papuan Howitzer.
+(T142 - 10:06:16) Your Howitzer survived the pathetic attack from the Papuan Howitzer.
+(T142 - 10:06:35) Howitzer lost to an attack by the Papuan Howitzer.
+(T142 - 10:06:43) Howitzer lost to an attack by the Papuan Howitzer.
+(T142 - 10:06:54) Howitzer lost to an attack by the Papuan Howitzer.
+(T142 - 10:07:03) Howitzer lost to an attack by the Papuan Howitzer.
+(T142 - 10:07:22) Howitzer lost to an attack by the Palatinate Howitzer.
+(T142 - 10:09:23) Your Armor II survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 10:09:23) Your Armor II became more experienced and achieved the rank of hardened.
+(T142 - 10:13:42) Howitzer lost to an attack by the Palatinate Howitzer.
+(T142 - 10:13:50) Your Howitzer survived the pathetic attack from the Papuan Howitzer.
+(T142 - 10:13:50) Your Howitzer became more experienced and achieved the rank of hardened.
+(T142 - 10:14:11) Your Mech. Inf. survived the pathetic attack from the Papuan Howitzer.
+(T142 - 10:16:20) Mobile SAM lost to an attack by the Palatinate Howitzer.
+(T142 - 10:16:30) Mobile SAM lost to an attack by the Palatinate Howitzer.
+(T142 - 10:17:26) Mobile SAM lost to an attack by the Palatinate Howitzer.
+(T142 - 10:17:38) Marines lost to an attack by the Palatinate Howitzer.
+(T142 - 10:18:43) Your Mech. Inf. survived the pathetic attack from the Zulu Cruise Missile.
+(T142 - 10:18:43) Your Mech. Inf. became more experienced and achieved the rank of veteran.
+(T142 - 10:20:23) Marines lost to an attack by the Romanian Howitzer.
+(T142 - 10:20:29) Your Mech. Inf. survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 10:20:37) Mech. Inf. lost to an attack by the Romanian Howitzer.
+(T142 - 10:20:42) Your Riflemen survived the pathetic attack from the Zulu Cruise Missile.
+(T142 - 10:20:48) Mech. Inf. lost to an attack by the Romanian Howitzer.
+(T142 - 10:20:57) Your Paratroopers survived the pathetic attack from the Romanian Howitzer.
+(T142 - 10:20:57) Your Paratroopers became more experienced and achieved the rank of elite.
+(T142 - 10:21:06) Your Paratroopers survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 10:21:07) Your Mech. Inf. survived the pathetic attack from the Zulu Cruise Missile.
+(T142 - 10:21:07) Your Mech. Inf. became more experienced and achieved the rank of hardened.
+(T142 - 10:21:18) Your Riflemen survived the pathetic attack from the Romanian Cruise Missile.
+(T142 - 10:21:18) Your Riflemen became more experienced and achieved the rank of hardened.
+(T142 - 10:21:26) Your Riflemen survived the pathetic attack from the Zulu Cruise Missile.
+(T142 - 10:21:26) Your Riflemen became more experienced and achieved the rank of elite.
+(T142 - 10:21:27) Your Riflemen survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 10:21:32) Your Riflemen survived the pathetic attack from the Romanian Cruise Missile.
+(T142 - 10:21:43) Paratroopers lost to an attack by the Romanian Cruise Missile.
+(T142 - 10:22:36) Your Paratroopers survived the pathetic attack from the Romanian Cruise Missile.
+(T142 - 10:22:50) Your Paratroopers survived the pathetic attack from the Romanian Cruise Missile.
+(T142 - 10:22:53) Your Anti-Aircraft Artillery survived the pathetic attack from the Papuan Stealth Fighter.
+(T142 - 10:22:53) Your Anti-Aircraft Artillery became more experienced and achieved the rank of hardened.
+(T142 - 10:25:14) Your Howitzer survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 10:25:29) Anti-Aircraft Artillery lost to an attack by the Palatinate Howitzer.
+(T142 - 10:25:35) Anti-Aircraft Artillery lost to an attack by the Papuan Cruise Missile.
+(T142 - 10:26:07) Your Riflemen survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 10:26:07) Your Riflemen became more experienced and achieved the rank of elite.
+(T142 - 10:26:30) Your Anti-Aircraft Artillery survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 10:26:51) Canik is now controlling player 'Canik3'.
+(T142 - 10:27:30) Your Armor II survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 10:27:45) Your Armor II survived the pathetic attack from the Romanian Cruise Missile.
+(T142 - 10:28:10) Your Armor II survived the pathetic attack from the Romanian Cruise Missile.
+(T142 - 10:31:34) Armor II lost to an attack by the Romanian Cruise Missile.
+(T142 - 10:31:42) Stealth Bomber lost to an attack by the Romanian Cruise Missile.
+(T142 - 10:31:54) Your Riflemen survived the pathetic attack from the Romanian Cruise Missile.
+(T142 - 10:32:24) Mech. Inf. lost to an attack by the Romanian Cruise Missile.
+(T142 - 10:33:25) Your Anti-Aircraft Artillery survived the pathetic attack from the Zulu Stealth Bomber.
+(T142 - 10:33:25) Your Anti-Aircraft Artillery became more experienced and achieved the rank of elite.
+(T142 - 10:33:37) Canik is now controlling player 'Canik3'.
+(T142 - 10:33:48) Helicopter lost to an attack by the Romanian Stealth Bomber.
+(T142 - 10:33:54) Helicopter lost to an attack by the Papuan Stealth Bomber.
+(T142 - 10:34:12) Helicopter lost to an attack by the Zulu Stealth Bomber.
+(T142 - 10:34:18) Your Riflemen survived the pathetic attack from the Zulu Stealth Bomber.
+(T142 - 10:34:18) Your Riflemen became more experienced and achieved the rank of veteran.
+(T142 - 10:34:36) Helicopter lost to an attack by the Papuan Stealth Bomber.
+(T142 - 10:34:44) Stealth Bomber lost to an attack by the Zulu Stealth Bomber.
+(T142 - 10:34:50) Your Riflemen survived the pathetic attack from the Zulu Stealth Bomber.
+(T142 - 10:34:50) Your Riflemen became more experienced and achieved the rank of veteran.
+(T142 - 10:35:18) Riflemen lost to an attack by the Papuan Stealth Bomber.
+(T142 - 10:35:45) Paratroopers lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:35:49) Howitzer lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:35:53) Your Stealth Fighter survived the pathetic attack from the Palatinate Stealth Bomber.
+(T142 - 10:36:52) Howitzer lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:37:29) Riflemen lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:37:33) Mech. Inf. lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:37:41) Paratroopers lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:37:50) Armor II lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:37:53) Howitzer lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:38:29) Riflemen lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:40:14) Riflemen lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:40:39) Your Armor II survived the pathetic attack from the Papuan Cruise Missile.
+(T142 - 10:41:10) Paratroopers lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:41:15) Howitzer lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:41:26) Mech. Inf. lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:41:31) Mech. Inf. lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:41:42) Riflemen lost to an attack by the Papuan Stealth Bomber.
+(T142 - 10:42:02) Anti-Aircraft Artillery lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:42:05) Mech. Inf. lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:42:08) Mech. Inf. lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:42:10) Armor II lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:42:21) Howitzer lost to an attack by the Palatinate Stealth Bomber.
+(T142 - 10:42:43) Mech. Inf. lost to an attack by the Palatinate Armor II.
+(T142 - 10:43:01) Armor II lost to an attack by the Palatinate Armor II.
+(T142 - 10:43:15) Riflemen lost to an attack by the Papuan Armor II.
+(T142 - 10:43:37) Howitzer lost to an attack by the Papuan Armor II.
+(T142 - 10:43:58) Jet Bomber lost to an attack by the Palatinate Armor II.
+(T142 - 10:43:58) Your Jet Bomber survived the pathetic attack from the Papuan Armor II.
+(T142 - 10:44:16) Stealth Fighter lost to an attack by the Papuan Armor II.
+(T142 - 10:44:19) Jet Bomber lost to an attack by the Palatinate Armor II.
+(T142 - 10:44:21) Jet Bomber lost to an attack by the Palatinate Armor II.
+(T142 - 10:44:21) Spy lost to an attack by the Papuan Armor II.
+(T142 - 10:44:25) Spy lost to an attack by the Papuan Armor II.
+(T142 - 10:44:52) Spy lost to an attack by the Palatinate Armor II.
+(T142 - 10:44:55) Spy lost to an attack by the Palatinate Armor II.
+(T142 - 10:44:58) Cruise Missile lost to an attack by the Palatinate Armor II.
+(T142 - 10:45:05) AWACS lost to an attack by the Palatinate Armor II.
+(T142 - 10:45:24) Jet Bomber lost to an attack by the Palatinate Helicopter.
+(T142 - 11:59:41) Your attacking Armor II succeeded against the Romanian Howitzer (and 1 other unit)!
+(T142 - 12:00:00) Your attacking Howitzer succeeded against the Palatinate Mech. Inf. (and 5 other units)!
+(T142 - 12:00:24) Your attacking Howitzer failed against the Palatinate Armor II!
+(T142 - 12:00:46) Your attacking Stealth Bomber failed against the Papuan Armor II!
+(T142 - 12:01:13) Your attacking Armor II succeeded against the Papuan Armor II (and 22 other units)!
+(T142 - 12:01:13) Your Armor II became more experienced and achieved the rank of hardened.
+(T142 - 12:02:19) Your attacking Armor II succeeded against the Papuan Howitzer (and 1 other unit)!
