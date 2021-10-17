@@ -12,7 +12,8 @@ with open("python_stuff/le_html/text.txt", mode="r", encoding="UTF-8") as f:
         elif line.isspace() and (len(categories[-1]) == 0 or len(categories[-1][-1]) != 0):
             categories[-1].append("")
         elif not line.isspace():
-            categories[-1][-1] += str(len(categories)) + ". - " + line.replace("\n", "<br>")
+            if len(categories[-1][-1])==0: line = str(len(categories)) + ". - " + line
+            categories[-1][-1] += line.replace("\n", "<br>")
     if len(categories[-1][-1])==0: categories[-1].pop(); print("pop")
     for a,cat in enumerate(categories):
         print("---", a)
