@@ -30,9 +30,9 @@ function getCookie(name) {
 }
 
 //Index of current question in qs
-var randIndex = 0;
+var randIndex = -1;
 //Index of current question's index in unusedQs
-var orIndex   = 0;
+var orIndex   = -1;
 
 //Stores still unused questions
 var unusedQs = [];
@@ -72,7 +72,7 @@ function nextQuestion(cr = true) {
           wrongs.splice(i, 2);
         }
       }
-      unusedQs.splice(orIndex, 1);
+      if(orIndex>-1) {unusedQs.splice(orIndex, 1);}
     }
     if (unusedQs.length == 0) {
       initUQS();
