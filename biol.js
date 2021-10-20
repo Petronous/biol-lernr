@@ -1,4 +1,4 @@
-button
+
 // TODO: - Load questions and answers from server database
 //       - Ask questions based on global statistics (which is the one most repeated)
 //       - Fix the annoying 'undefined' bug
