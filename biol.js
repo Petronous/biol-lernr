@@ -37,9 +37,16 @@ function initUQS() {
 initUQS();
 
 //Stores pending wrong answers in randIndex, qsLeft pairs
-let wrongs = JSON.parse(localStorage.getItem('wrongs')) || [];
+let wrongs = JSON.parse(localStorage.getItem('wrongs')); 
+if(wrongs == null) {
+  wrongs = [];
+}
 
-uq = JSON.parse(localStorage.getItem('uqs')) || [];
+uq = JSON.parse(localStorage.getItem('uqs'));
+if(uq != null) {
+  unusedQs = uq;
+}
+
 
 //Switches to next question and updates wrongs
 function nextQuestion(cr = true) {
