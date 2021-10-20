@@ -45,9 +45,9 @@ uq = JSON.parse(localStorage.getItem('uqs')) || [];
 function nextQuestion(cr = true) {
   try {
     //Saves to local storage
-    let wr = JSON.from(wrongs);
+    let wr = JSON.stringify(wrongs);
     localStorage.setItem('wrongs', wr);
-    wr = JSON.from(unusedQs);
+    wr = JSON.stringify(unusedQs);
     localStorage.setItem('uqs', wr);
     if (cr) {
       //Deletes the last used question from unusedQs if not called by wrongAnswer
