@@ -1,4 +1,3 @@
-button
 // TODO: - Load questions and answers from server database
 //       - Ask questions based on global statistics (which is the one most repeated)
 //       - Fix the annoying 'undefined' bug
@@ -87,7 +86,7 @@ function nextQuestion(correct = true) {
     document.getElementById('num').innerHTML = `Zbývá ${unusedQs.length} otázek`;
 
     //Hides answer
-    let shownAnswerElement = document.getElementById("answers");
+    let shownAnswerElement = document.getElementById("ans");
     shownAnswerElement.innerHTML = "";
 
     //Updates wrongs
@@ -133,7 +132,7 @@ function showAnswer() {
   button = document.getElementById('sans');
   button.style.display = "none";
 
-  let shownAnswerElement = document.getElementById("answers");
+  let shownAnswerElement = document.getElementById("ans");
   shownAnswerElement.innerHTML = answers[questionsIndex];
 }
 
