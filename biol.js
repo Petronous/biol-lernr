@@ -48,7 +48,7 @@ if(localStorage.getItem('uqs') == null) {
     localStorage.setItem('uqs', JSON.stringify(unusedQs));
 }
 
-uq = localStorage.getItem('uqs');
+unusedQs = JSON.parse(localStorage.getItem('uqs'));
 
 
 //Switches to next question and updates wrongs
