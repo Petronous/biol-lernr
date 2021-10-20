@@ -37,14 +37,16 @@ function initUQS() {
 initUQS();
 
 //Stores pending wrong answers in randIndex, qsLeft pairs
-let wrongs = JSON.parse(localStorage.getItem('wrongs')); 
+let wrongs = localStorage.getItem('wrongs'); 
 if(wrongs == null) {
   wrongs = [];
+} else {
+  wrongs = JSON.parse(wrongs);
 }
 
-uq = JSON.parse(localStorage.getItem('uqs'));
+uq = localStorage.getItem('uqs');
 if(uq != null) {
-  unusedQs = uq;
+  unusedQs = JSON.parse(uq);
 }
 
 
