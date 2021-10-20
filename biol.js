@@ -12,8 +12,8 @@ let qs = [];
 let ans = [];
 
 for (let i = 0; i < 11; i++) {
-  qs.concat(qs_all[i]);
-  ans.concat(ans_all[i]);
+  qs = qs.concat(qs_all[i]);
+  ans = ans.concat(ans_all[i]);
 }
 
 //Used once in orIndex = unusedQs.findIndex(eqs, randIndex)
@@ -37,18 +37,20 @@ function initUQS() {
 initUQS();
 
 //Stores pending wrong answers in randIndex, qsLeft pairs
-let wrongs = localStorage.getItem('wrongs'); 
+let wrongs = localStorage.getItem('wrongs');
 if(wrongs == null) {
   wrongs = [];
 } else {
   wrongs = JSON.parse(wrongs);
 }
+console.log(wrongs);
 
 if(localStorage.getItem('uqs') == null) {
     localStorage.setItem('uqs', JSON.stringify(unusedQs));
 }
 
 unusedQs = JSON.parse(localStorage.getItem('uqs'));
+console.log(unusedQs);
 
 
 //Switches to next question and updates wrongs
