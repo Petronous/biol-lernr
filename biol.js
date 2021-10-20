@@ -37,25 +37,17 @@ function initUQS() {
 initUQS();
 
 //Stores pending wrong answers in randIndex, qsLeft pairs
-let wrongs = localStorage.getItem('wrongs');
+let wrongs = JSON.parse(localStorage.getItem('wrongs')) || [];
 
-//The loading from local storage
-if (wrongs != undefined) { wrongs = wrongs.split(','); console.log(wrongs); }
-else { wrongs = []; }
-
-uq = localStorage.getItem('uqs');
-if (uq != undefined) {
-  unusedQs = uq.split(',');
-  console.log(unusedQs);
-}
+uq = JSON.parse(localStorage.getItem('uqs')) || [];
 
 //Switches to next question and updates wrongs
 function nextQuestion(cr = true) {
   try {
     //Saves to local storage
-    let wr = wrongs.toString();
+    let wr = JSON.from(wrongs);
     localStorage.setItem('wrongs', wr);
-    wr = unusedQs.toString();
+    wr = JSON.from(unusedQs);
     localStorage.setItem('uqs', wr);
     if (cr) {
       //Deletes the last used question from unusedQs if not called by wrongAnswer
