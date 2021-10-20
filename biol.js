@@ -44,10 +44,11 @@ if(wrongs == null) {
   wrongs = JSON.parse(wrongs);
 }
 
-uq = localStorage.getItem('uqs');
-if(uq != null) {
-  unusedQs = JSON.parse(uq);
+if(localStorage.getItem('uqs') == null) {
+    localStorage.setItem('uqs', JSON.stringify(unusedQs));
 }
+
+uq = localStorage.getItem('uqs');
 
 
 //Switches to next question and updates wrongs
