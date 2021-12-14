@@ -10,7 +10,7 @@ let ans_all = [
 let questions = [];
 let answers = [];
 
-for (let i = 11; i < 19; i++) {
+for (let i = 10; i < 17; i++) {
   questions = questions.concat(qs_all[i]);
   answers = answers.concat(ans_all[i]);
 }
