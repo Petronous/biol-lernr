@@ -51,6 +51,21 @@ if(localStorage.getItem('uqs') == null) {
 unusedQs = JSON.parse(localStorage.getItem('uqs'));
 console.log(unusedQs);
 
+let shownAnswerElement;
+let nxt_button;
+let wrng_button;
+let sans_button;
+let num_button;
+let qstionButton;
+
+function initButtons() {
+  shownAnswerElement = document.getElementById("ans");
+  nxt_button = document.getElementById('nxt');
+  wrng_button = document.getElementById('wrng');
+  sans_button = document.getElementById('sans');
+  num_button = document.getElementById('num');
+  qstionButton = document.getElementById("qes");
+  
 function shuffle(arr) {
   for(let i = arr.length - 1; i > 0; i--){
     const j = Math.floor(Math.random() * i);
@@ -82,19 +97,15 @@ function nextQuestion(correct = true, random = true) {
     }
 
     //Toggles buttons
-    let button = document.getElementById('nxt');
-    button.innerHTML = "Správně";
-    button.style.display = "none";
-    button = document.getElementById('wrng');
-    button.style.display = "none";
-    button = document.getElementById('sans');
-    button.style.display = "block";
+    nxt_button.innerHTML = "Správně";
+    nxt_button.style.display = "none";
+    wrng_button.style.display = "none";
+    sans_button.style.display = "block";
 
     //Shows the number of questions left in unusedQs
-    document.getElementById('num').innerHTML = `Zbývá ${unusedQs.length} otázek`;
+    num_button.innerHTML = `Zbývá ${unusedQs.length} otázek`;
 
     //Hides answer
-    let shownAnswerElement = document.getElementById("ans");
     shownAnswerElement.innerHTML = "";
 
     //Updates wrongs
@@ -130,24 +141,20 @@ function nextQuestion(correct = true, random = true) {
     }
 
     //Sets the qes element to show the chosen question
-    let qstionButton = document.getElementById("qes");
     qstionButton.innerHTML = questions[questionsIndex];
   } catch (err) {
     window.alert(err.message);
   }
 }
 
+
 //Shows answer
 function showAnswer() {
-  let button = document.getElementById('nxt');
-  button.innerHTML = "Správně";
-  button.style.display = "block";
-  button = document.getElementById('wrng');
-  button.style.display = "block";
-  button = document.getElementById('sans');
-  button.style.display = "none";
+  nxt_button.innerHTML = "Správně";
+  nxt_button.style.display = "block";
+  wrng_button.style.display = "block";
+  sans_button.style.display = "none";
 
-  let shownAnswerElement = document.getElementById("ans");
   shownAnswerElement.innerHTML = answers[questionsIndex];
 }
 
