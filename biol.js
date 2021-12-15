@@ -48,16 +48,25 @@ if(localStorage.getItem('uqs') == null) {
     localStorage.setItem('uqs', JSON.stringify(unusedQs));
 }
 
-let unusedQs = JSON.parse(localStorage.getItem('uqs'));
+unusedQs = JSON.parse(localStorage.getItem('uqs'));
 console.log(unusedQs);
 
-const shownAnswerElement = document.getElementById("ans");
-const nxt = document.getElementById('nxt');
-const wrng = document.getElementById('wrng');
-const sans = document.getElementById('sans');
-const num = document.getElementById('num');
+let shownAnswerElement;
+let nxt_button;
+let wrng_button;
+let sans_button;
+let num_button;
+let qstionButton;
 
-const qstionButton = document.getElementById("qes");
+function initButtons() {
+  shownAnswerElement = document.getElementById("ans");
+  nxt_button = document.getElementById('nxt');
+  wrng_button = document.getElementById('wrng');
+  sans_button = document.getElementById('sans');
+  num_button = document.getElementById('num');
+  qstionButton = document.getElementById("qes");
+}
+
 //Switches to next question and updates wrongs
 function nextQuestion(correct = true, random = true) {
   try {
@@ -80,13 +89,13 @@ function nextQuestion(correct = true, random = true) {
     }
 
     //Toggles buttons
-    nxt.innerHTML = "Správně";
-    nxt.style.display = "none";
-    wrng.style.display = "none";
-    sans.style.display = "block";
+    nxt_button.innerHTML = "Správně";
+    nxt_button.style.display = "none";
+    wrng_button.style.display = "none";
+    sans_button.style.display = "block";
 
     //Shows the number of questions left in unusedQs
-    num.innerHTML = `Zbývá ${unusedQs.length} otázek`;
+    num_button.innerHTML = `Zbývá ${unusedQs.length} otázek`;
 
     //Hides answer
     shownAnswerElement.innerHTML = "";
@@ -133,10 +142,10 @@ function nextQuestion(correct = true, random = true) {
 
 //Shows answer
 function showAnswer() {
-  nxt.innerHTML = "Správně";
-  nxt.style.display = "block";
-  wrtg.style.display = "block";
-  sans.style.display = "none";
+  nxt_button.innerHTML = "Správně";
+  nxt_button.style.display = "block";
+  wrng_button.style.display = "block";
+  sans_button.style.display = "none";
 
   shownAnswerElement.innerHTML = answers[questionsIndex];
 }
