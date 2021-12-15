@@ -65,6 +65,14 @@ function initButtons() {
   sans_button = document.getElementById('sans');
   num_button = document.getElementById('num');
   qstionButton = document.getElementById("qes");
+  
+function shuffle(arr) {
+  for(let i = arr.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * i);
+    const temp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = temp;
+  }
 }
 
 //Switches to next question and updates wrongs
